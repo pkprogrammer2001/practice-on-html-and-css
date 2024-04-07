@@ -1,1 +1,1 @@
-first commit
+this repo is mainly used for html and css project 
