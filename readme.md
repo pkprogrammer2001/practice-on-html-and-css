@@ -1,1 +1,1 @@
-first commit
+in this project, i make dentyTech main page with using simple html and css 
